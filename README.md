@@ -1,2 +1,2 @@
 # MyAlg
-## Implement Some normal Alg by C
+Implement Some normal Alg by C
